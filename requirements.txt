@@ -3,4 +3,5 @@ numpy
 pandas
 matplotlib
 scikit-learn
+seaborn
 imbalanced-learn
